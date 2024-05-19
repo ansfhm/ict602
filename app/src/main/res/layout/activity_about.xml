@@ -66,7 +66,7 @@
         android:id="@+id/textViewCopyright"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@copyright 2024 by Anas Fahmi ™"
+        android:text="© 2024 by Anas Fahmi ™"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
